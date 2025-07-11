@@ -1,1 +1,1 @@
-# kalkulator_sederhana
+# kalkulator_diskon_sederhana
